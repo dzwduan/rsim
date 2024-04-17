@@ -37,6 +37,10 @@ read [here](./docs/html/manual.html)
 
 
 
-### Microarchitecture
+## Microarchitecture
 
 <img src="./img.png" alt="image-20240417111644614" style="zoom:50%;" />
+
+## Tips
+
+rsim no longer used, and the team which developed it now use gem5
